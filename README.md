@@ -1,4 +1,4 @@
-# ecommerce-AB-test-analysis
+# E‑commerce A/B Test Hypotheses Prioritization & Analysis
 This repository contains the end‑to‑end workflow for prioritizing marketing hypotheses, running an A/B test, and analyzing its results for a large online retailer.  
 
 Key objectives:
